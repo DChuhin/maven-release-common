@@ -7,7 +7,7 @@
     <version>1.0</version>
 
     <scm>
-        <connection>scm:git:ssh://github.com/DChuhin/maven-release-common.git</connection>
+        <connection>scm:git:https://github.com/DChuhin/maven-release-common.git</connection>
       <tag>maven-release-common/1.0</tag>
   </scm>
 

@@ -8,6 +8,7 @@
 
     <scm>
         <connection>scm:git:git@github.com:DChuhin/maven-release-common.git</connection>
+        <developerConnection>scm:git:git@github.com:DChuhin/maven-release-common.git</developerConnection>
     </scm>
 
     <properties>

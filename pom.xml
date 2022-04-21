@@ -7,8 +7,8 @@
     <version>1.0</version>
 
     <scm>
-        <connection>scm:https://github.com/DChuhin/maven-release-common.git</connection>
-  </scm>
+        <connection>scm:git:https://github.com/DChuhin/maven-release-common.git</connection>
+    </scm>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>

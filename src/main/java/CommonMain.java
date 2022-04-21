@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class CommonMain {
+public class CommonMain {
+
+    public static void main(String[] args) {
+        System.out.println(CommonMain.class.getPackage().getImplementationVersion());
+    }
 }

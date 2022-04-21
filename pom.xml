@@ -8,6 +8,10 @@
     <artifactId>maven-release-common</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <scm>
+        <connection>scm:git:github.com/DChuhin/maven-release-common.git</connection>
+    </scm>
+
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>

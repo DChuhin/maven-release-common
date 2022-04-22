@@ -4,11 +4,11 @@
 
     <groupId>org.example</groupId>
     <artifactId>maven-release-common</artifactId>
-    <version>1.1</version>
+    <version>1.2-SNAPSHOT</version>
 
     <scm>
         <connection>scm:git:https://github.com/DChuhin/maven-release-common.git</connection>
-      <tag>maven-release-common/1.1</tag>
+      <tag>maven-release-common/1.0</tag>
   </scm>
 
     <properties>
